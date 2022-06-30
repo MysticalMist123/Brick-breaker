@@ -1,0 +1,18 @@
+:root{
+    --w: 700px;
+    --h: 600px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(2, 2, 92);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#canvas{
+    background: rgb(10, 10, 150);
+}
